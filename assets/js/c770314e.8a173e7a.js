@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchances=self.webpackChunkchances||[]).push([[3259],{5213:e=>{e.exports=JSON.parse('{"permalink":"/Sitetwo/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

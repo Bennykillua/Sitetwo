@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchances=self.webpackChunkchances||[]).push([[3227],{2934:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/Sitetwo/blog/tags/facebook","allTagsPath":"/Sitetwo/blog/tags","count":1,"unlisted":false}')}}]);
