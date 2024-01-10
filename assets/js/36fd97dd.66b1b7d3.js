@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkchances=self.webpackChunkchances||[]).push([[2323],{6359:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/Sitetwo/blog/tags/hola","allTagsPath":"/Sitetwo/blog/tags","count":1,"unlisted":false}')}}]);

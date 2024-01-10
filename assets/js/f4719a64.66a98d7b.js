@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkchances=self.webpackChunkchances||[]).push([[5841],{2610:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/Sitetwo/blog/tags/docusaurus","allTagsPath":"/Sitetwo/blog/tags","count":4,"unlisted":false}')}}]);
