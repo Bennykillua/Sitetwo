@@ -72,7 +72,7 @@ const config = {
         title: 'Benny',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/toji.png',
         },
         items: [
           {
