@@ -72,7 +72,7 @@ const config = {
         title: 'Benny',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.png',
+          src: 'img/logo.svg',
         },
         items: [
           {
