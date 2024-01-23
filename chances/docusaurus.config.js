@@ -43,8 +43,9 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          routeBasePath: '/', // this turn off the intro page
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/bennykillua/Sitetwo/tree/main/',
         },
         blog: false, // remove this link when you want the blog
         // uncomment the below part when you want the blog part again
@@ -68,7 +69,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Benny',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -81,55 +82,95 @@ const config = {
             label: 'Tutorial',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Blog',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'freeCodeCamp',
+                href: 'https://www.freecodecamp.org/news/author/benny/',
+              },
+              {
+                label: 'Waldo',
+                href: 'https://www.waldo.com/team/ifeanyi-benedict-iheagwara',
+              },
+              {
+                label: 'Hashnode',
+                href: 'https://benny.hashnode.dev/',
+              },
+              {
+                label: 'Medium',
+                href: 'https://medium.com/@iheifeanyi',
+              },
+              {
+                label: 'GeeksforGeeks',
+                href: 'https://auth.geeksforgeeks.org/user/iheifeanyi/articles',
+              },
+              {
+                label: 'Microsoft Power Platform blog profile',
+                href: 'https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/797827',
+              },
+              {
+                label: 'Opensource.com',
+                href: 'https://opensource.com/users/benny-ifeanyi',
+              },
+              {
+                label: 'MakeUseOf (MUO)',
+                href: 'https://www.makeuseof.com/author/ifeanyi-iheagwara/',
+              },
+              {
+                label: 'UrBizEdge',
+                href: 'https://urbizedge.com/author/ifeanyi/',
+              },
+              {
+                label: 'HackerNoon',
+                href: 'https://hackernoon.com/u/bennykillua',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Social',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Email',
+                href: 'mailto:iheifeanyi@gmail.com',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/ifeanyi-iheagwara/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Bennykillua',
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/Bennykillua',
               },
             ],
           },
+          // {
+          //   title: 'More',
+          //   items: [
+          //     {
+          //       label: 'Blog',
+          //       to: '/blog',
+          //     },
+          //     {
+          //       label: 'GitHub',
+          //       href: 'https://github.com/facebook/docusaurus',
+          //     },
+          //   ],
+          // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
