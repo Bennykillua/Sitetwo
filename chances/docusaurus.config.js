@@ -71,9 +71,8 @@ const config = {
       navbar: {
         title: 'Benny',
         logo: {
-          alt: 'My Site Logo',
-          src: 'static/img/Favicon.ico.png',
-          // 'img/logo.svg',
+          alt: 'Logo',
+          src: 'img/logo.svg',
         },
         items: [
           {
