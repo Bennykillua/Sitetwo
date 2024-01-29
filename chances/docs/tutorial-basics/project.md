@@ -2,11 +2,9 @@
 sidebar_position: 5
 ---
 
-# Deploy your site
+# Projects
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
-
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+👷🏾
 
 ## Build your site
 

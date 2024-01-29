@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Create a Blog Post
+# Featured and Communities Talks
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Various talks 💬
 
 ## Create your first Post
 
