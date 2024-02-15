@@ -79,7 +79,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: ' ', // this can be given a label like learn more however i removed it so it looks better
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
