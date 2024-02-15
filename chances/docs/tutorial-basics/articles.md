@@ -63,8 +63,7 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - UrBizEdge: [10 Pandas Functions you need to know for Exploratory Data Analysis (EDA)](https://urbizedge.com/eda/)
 - UrBizEdge: [RFM analysis with Power BI](https://urbizedge.com/rfm-analysis-with-power-bi/)
 - UrBizEdge: [Machine Learning in Power BI](https://urbizedge.com/machine-learning-in-power-bi/)
-- UrBizEdge: [Setting up R and Python in Microsoft Excel]
-(https://urbizedge.com/setting-up-r-and-python-in-microsoft-excel/)
+- UrBizEdge: [Setting up R and Python in Microsoft Excel](https://urbizedge.com/setting-up-r-and-python-in-microsoft-excel/)
 - UrBizEdge: [Power Query in Excel For Mac](https://urbizedge.com/power-query-in-excel-for-mac/)
 - UrBizEdge: [Power BI Desktop: The Beginner’s Guide](https://urbizedge.com/power-bi-desktop-the-beginners-guide/)
 - MUO (MakeUseOf): [Why Microsoft 365 Copilot in Excel Will Be Exciting](https://www.makeuseof.com/microsoft-copilot-in-excel/)
@@ -126,11 +125,4 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 ## Docs and QuickStarts
 
 - docToolChain: [Building Docs with docToolchain: A Quickstart Guide](https://doctoolchain.org/tutorials/01_Tutorials/010_Quickstart.html)
-
-## Clients
-
-You could check out some of my other writing from Hashnode, Hackernoon, and Medium.
-
-Within my technical writing career, I have worked with 
-
 
