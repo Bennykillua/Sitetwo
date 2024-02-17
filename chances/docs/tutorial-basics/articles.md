@@ -51,6 +51,8 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - [How to contribute to Hacktoberfest 2022](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest)
 - Educative: [How to use Modeling view in Power BI Desktop](https://www.educative.io/answers/how-to-use-modeling-view-in-power-bi-desktop)
 - Bird Eats Bug: [Developer Productivity: How to Measure It](https://birdeatsbug.com/blog/developer-productivity-how-to-measure-it)
+- Klara [5 Key Reasons to Consider Open Source Storage Over Commercial Offerings](https://klarasystems.com/articles/open-source-storage-over-commercial-offerings/)
+- Klara [Contributing to Open Source Beyond Software Development](https://klarasystems.com/articles/contributing-to-open-source-beyond-software-development/)
 - Resagratia: [Working with business data in Power Query](https://resagratia.com/resources/datadigest/working-with-business-data-in-power-query)
 - UrBizedge: [Building a bot with Power Virtual Agent](https://urbizedge.com/building-a-bot-with-power-virtual-agent/)
 - UrBizEdge: [Common SQL syntax used in Microsoft Excel](https://urbizedge.com/common-sql-syntax-used-in-microsoft-excel/)
@@ -88,6 +90,8 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - MUO (MakeUseOf): [8 AI Features of Excel You Probably Didn’t Know About](https://www.makeuseof.com/ai-features-excel-you-didnt-know/)
 - MUO (MakeUseOf): [How to Import Data From SQL Server to Excel Using Power Query Easily](https://www.makeuseof.com/how-to-import-data-sql-server-to-excel-power-query/)
 - MUO (MakeUseOf): [How to Create a Date Table in Power BI](https://www.makeuseof.com/how-to-create-a-date-table-in-power-bi/)
+- Microsoft 365 and Power Platform Community Blog [Power Query ETL Capabilities](https://pnp.github.io/blog/post/power_query_etl/)
+
 
 
 

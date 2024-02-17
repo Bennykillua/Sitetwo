@@ -7,7 +7,7 @@ slug: /
 
 I am a **Data Analyst** and **Technical Writer**. I love to write, share knowledge, and build incredible data solutions. 
 
-Professionally, I am a Data Analyst at [Asset & Resource Management Holding Company (ARM HoldCo)](https://www.arm.com.ng), where we help you manage your wealth and invest in your tomorrow. I also work at [Hit Subscribe](https://www.hitsubscribe.com/the-team/#writersandeditors), your one-stop shop for tech content marketing. 
+Professionally, I am a Data Analyst at [Asset & Resource Management Holding Company (ARM HoldCo)](https://www.arm.com.ng), where we help you manage your wealth and invest in your tomorrow. I also work as a freelancer writer at [Hit Subscribe](https://www.hitsubscribe.com/the-team/#writersandeditors), your one-stop shop for tech content marketing. 
 
 Outside work, I watch movies and anime, volunteer at communities or boot camps, and write technical articles.
 

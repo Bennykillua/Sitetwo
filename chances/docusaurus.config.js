@@ -156,6 +156,10 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/Bennykillua',
               },
+              {
+                label: 'Speaker Deck',
+                href: 'https://speakerdeck.com/bennykillua',
+              },
             ],
           },
           // {
