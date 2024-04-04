@@ -38,6 +38,8 @@ Below are some of the insightful talks I've had the privilege to deliver: ðŸ§‘ðŸ
 -[What is XMATCH function in Microsoft Excel and how can I use it?](https://www.youtube.com/watch?v=YNRGXYTDm9I&t=10s)
 -[Building a simple ML Model](https://www.youtube.com/watch?v=K5AX_Ak8AIk&t=13s)
 - [Microsoft Fabric UK: Transforming data monsters using Power Query](https://www.youtube.com/watch?v=H_poqUidbo0&t=1234s)
+- [Operational Efficiency Dashboards](https://www.youtube.com/watch?v=nygCkrmZOmQ)
+- Maximise customer rentention: Perform churn analysis with Power BI
 
 
 

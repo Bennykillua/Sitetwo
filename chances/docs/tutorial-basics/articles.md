@@ -91,10 +91,7 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - MUO (MakeUseOf): [How to Import Data From SQL Server to Excel Using Power Query Easily](https://www.makeuseof.com/how-to-import-data-sql-server-to-excel-power-query/)
 - MUO (MakeUseOf): [How to Create a Date Table in Power BI](https://www.makeuseof.com/how-to-create-a-date-table-in-power-bi/)
 - Microsoft 365 and Power Platform Community Blog [Power Query ETL Capabilities](https://pnp.github.io/blog/post/power_query_etl/)
-
-
-
-
+- SolarWinds: [What is Network Observability? - 5 Tools for Observability SolarWinds](https://logicalread.com/what-is-network-observability/)
 
 
 ## Articles (As an editor)
@@ -105,8 +102,11 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - Wrangle: [The Ultimate Guide to Building Slack Workflows in 2023](https://www.wrangle.io/post/the-ultimate-guide-to-building-slack-workflows-in-2020)
 - Stackify: [8 Key Application Performance Metrics & How to Measure Them](https://stackify.com/application-performance-metrics/)
 - Stackify: [Best Log Management Tools: Useful Tools for Log Management, Monitoring, Analytics, and More](https://stackify.com/best-log-management-tools/)
-- Tek-Tools: [How To Optimize SQL Query Performance and Best Practices](https://www.tek-tools.com/systems/sql-query-optimization)
-
+- Tek-Tools by Solarwinds: [How To Optimize SQL Query Performance and Best Practices](https://www.tek-tools.com/systems/sql-query-optimization)
+- Workato: [What is iPaaS? Integration Platform as a Service explained](https://www.workato.com/the-connector/ipaas-complete-guide/)
+- Tricentis: [Exploratory Testing](https://www.tricentis.com/learn/exploratory-testing)
+- Tek-Tools by Solarwinds: [Top Network Analysis Tools](https://www.tek-tools.com/network/top-network-analysis-tools)
+- Enov8: [What Makes a Good Enterprise Release Manager?](https://www.enov8.com/blog/what-makes-a-good-enterprise-release-manager/)
 
 ## Glossaries and FAQs
 
@@ -125,6 +125,7 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - Sematext: [Service Level Objectives: SLOs](https://sematext.com/glossary/service-level-objective/)
 - Sematext: [Buffer Vs Cache](https://sematext.com/glossary/buffer-vs-cache/)
 - Sematext: [Anomaly Detection](https://sematext.com/glossary/anomaly-detection/)
+- ngrok: [Device Gateway: A Brief Introduction](https://ngrok.com/blog-post/device-gateway-a-brief-introduction)
 
 ## Docs and QuickStarts
 
