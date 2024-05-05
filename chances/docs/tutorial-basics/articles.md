@@ -92,7 +92,8 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - MUO (MakeUseOf): [How to Create a Date Table in Power BI](https://www.makeuseof.com/how-to-create-a-date-table-in-power-bi/)
 - Microsoft 365 and Power Platform Community Blog [Power Query ETL Capabilities](https://pnp.github.io/blog/post/power_query_etl/)
 - SolarWinds: [What is Network Observability? - 5 Tools for Observability SolarWinds](https://logicalread.com/what-is-network-observability/)
-
+- DeVZero:[DORA Metrics Dashboard: How to Build One, with Examples](https://www.devzero.io/blog/dora-metrics-dashboard-how-to-build-one)
+- TekkiGurus: [Stripe Card Payment Features in Power Pages](https://www.tekkigurus.com/stripe-card-payment-features-in-power-pages/)
 
 ## Articles (As an editor)
 
@@ -107,6 +108,7 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - Tricentis: [Exploratory Testing](https://www.tricentis.com/learn/exploratory-testing)
 - Tek-Tools by Solarwinds: [Top Network Analysis Tools](https://www.tek-tools.com/network/top-network-analysis-tools)
 - Enov8: [What Makes a Good Enterprise Release Manager?](https://www.enov8.com/blog/what-makes-a-good-enterprise-release-manager/)
+- Cloudbees: [What is Jenkins?](https://www.cloudbees.com/jenkins/what-is-jenkins)
 
 ## Glossaries and FAQs
 
