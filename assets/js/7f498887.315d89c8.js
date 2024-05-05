@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchances=self.webpackChunkchances||[]).push([[35],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
