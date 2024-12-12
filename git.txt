@@ -1,0 +1,13 @@
+git push --set-upstream origin master
+
+git add .
+
+git commit -m" added"
+
+npm start
+
+git init
+
+cmd /c 'set GIT_USER=Bennykillua&& yarn deploy'
+
+cmd /c set GIT_USER=Bennykillua&& yarn deploy

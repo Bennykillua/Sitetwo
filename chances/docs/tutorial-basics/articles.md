@@ -94,6 +94,8 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - SolarWinds: [What is Network Observability? - 5 Tools for Observability SolarWinds](https://logicalread.com/what-is-network-observability/)
 - DeVZero:[DORA Metrics Dashboard: How to Build One, with Examples](https://www.devzero.io/blog/dora-metrics-dashboard-how-to-build-one)
 - TekkiGurus: [Stripe Card Payment Features in Power Pages](https://www.tekkigurus.com/stripe-card-payment-features-in-power-pages/)
+- Comet ML: [Exploring Generative Artificial Intelligence with PandasAI, OpenAI, and Comet LLM](https://www.comet.com/site/blog/exploring-generative-artificial-intelligence-with-pandasai-openai-and-comet-llm/)
+- Comet ML: [Text Summarization Modeling with ScikitLLM and Comet](https://www.comet.com/site/blog/text-summarization-modeling-with-scikitllm-and-comet/)
 
 ## Articles (As an editor)
 

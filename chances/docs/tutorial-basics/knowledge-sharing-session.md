@@ -39,7 +39,8 @@ Below are some of the insightful talks I've had the privilege to deliver: ðŸ§‘ðŸ
 -[Building a simple ML Model](https://www.youtube.com/watch?v=K5AX_Ak8AIk&t=13s)
 - [Microsoft Fabric UK: Transforming data monsters using Power Query](https://www.youtube.com/watch?v=H_poqUidbo0&t=1234s)
 - [Operational Efficiency Dashboards](https://www.youtube.com/watch?v=nygCkrmZOmQ)
-- Maximise customer rentention: Perform churn analysis with Power BI
+- [Maximise customer rentention: Perform churn analysis with Power BI](https://www.youtube.com/watch?v=gS8wnOB_J_k&ab_channel=Techlytics)
+- [How can Adaptive cards help you?](https://youtu.be/usRIFMyq6dg?si=LlmjkIL8wunRl2uq)
 
 
 
