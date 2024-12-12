@@ -1,10 +1,12 @@
-git push --set-upstream origin master
+## How to push to repo
 
 git add .
 
 git commit -m" added"
 
-npm start
+git push --set-upstream origin master
+-------------------------------------------
+## you havr to deploy inside ** CHANCES**
 
 git init
 

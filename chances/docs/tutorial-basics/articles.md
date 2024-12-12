@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Writing
 
-This page showcase some of the articles, quick starts, and glossaries I have written. ✍🏾
+This page showcases some of the articles, quick starts, and glossaries I’ve written or edited. ✍🏾
 
 
 ## Articles
@@ -96,6 +96,23 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - TekkiGurus: [Stripe Card Payment Features in Power Pages](https://www.tekkigurus.com/stripe-card-payment-features-in-power-pages/)
 - Comet ML: [Exploring Generative Artificial Intelligence with PandasAI, OpenAI, and Comet LLM](https://www.comet.com/site/blog/exploring-generative-artificial-intelligence-with-pandasai-openai-and-comet-llm/)
 - Comet ML: [Text Summarization Modeling with ScikitLLM and Comet](https://www.comet.com/site/blog/text-summarization-modeling-with-scikitllm-and-comet/)
+- Hackernoon: [How to Build a Recipe Generator AI Chatbot With Coze](https://hackernoon.com/how-to-build-a-recipe-generator-ai-chatbot-with-coze)
+- Hackernoon: [How to Create Plugins From Scratch in Coze: CoinGecko](https://hackernoon.com/how-to-create-plugins-from-scratch-in-coze-coingecko)
+- Hackernoon: [Beginner's Guide to Docker Image Deployment With Aptible (and Get a Free Shirt!)](https://hackernoon.com/beginners-guide-to-docker-image-deployment-with-aptible-and-get-a-free-shirt)
+- Hackernoon: [How LLMs like ChatGPT Can Change the Way We Trade](https://hackernoon.com/how-llms-like-chatgpt-can-change-the-way-we-trade)
+- Hackernoon: [Understanding Linux Containers Before Changing the World](https://hackernoon.com/understanding-linux-containers-before-changing-the-world)
+- Hackernoon: [Navigating Disruptive AI: Balancing Rapid Technological Advancement with Ethical Regulation](https://hackernoon.com/navigating-disruptive-ai-balancing-rapid-technological-advancement-with-ethical-regulation)
+- Hackernoon: [The Time-Traveler's Journey to Bitcoin Mining: A Tale Across Mining Eras](https://hackernoon.com/the-time-travelers-journey-to-bitcoin-mining-a-tale-across-mining-eras)
+- Milvus on Dzone: [cOMMUNITY: Build Retrieval-Augmented Generation (RAG) with Milvus](https://dzone.com/articles/build-rag-with-milvus)
+- Milvus on Dzone: [Retrieval-Augmented Generation (RAG) with Milvus and LlamaIndex](https://dzone.com/articles/rag-with-milvus-llamaindex)
+- The Social Proxy: [Building a LinkedIn Profile Location Tracker: A Step-by-Step Guide to Mapping Social Media Movements](https://thesocialproxy.com/2024/09/13/building-a-linkedin-profile-location-tracker/)
+- Twilio: [How to Send SMS with Messaging API and OpenAI API](https://www.twilio.com/en-us/blog/send-sms-programmable-messaging-openai-api)
+- Jozu by KitOps: [Free Online Tutorials to Help You Develop Machine Learning Applications](https://jozu.com/blog/free-online-tutorials-to-help-you-develop-machine-learning-applications/). You can also check out the [Dev.to link](https://dev.to/kitops/free-online-tutorials-to-help-you-develop-machine-learning-applications-2p5l). 
+
+- Jozu by KitOps: [20 Open Source Tools I Recommend to Build, Share, and Run AI Projects](https://jozu.com/blog/20-open-source-tools-i-recommend-to-build-share-and-run-ai-projects/). You can also check out the [Dev.to link](https://dev.to/kitops/20-open-source-tools-i-recommend-to-build-share-and-run-ai-projects-4ncg) 
+
+- Jozu by KitOps: [Jozu Hub vs. Docker Hub? Which One Works Best for AI/ML?](https://jozu.com/blog/jozu-hub-vs-docker-hub-which-one-works-best-for-ai-ml/). You can also check out the [Dev.to link](https://dev.to/kitops/jozu-hub-vs-docker-hub-which-one-works-best-for-aiml-3oij)
+
 
 ## Articles (As an editor)
 
@@ -111,6 +128,30 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - Tek-Tools by Solarwinds: [Top Network Analysis Tools](https://www.tek-tools.com/network/top-network-analysis-tools)
 - Enov8: [What Makes a Good Enterprise Release Manager?](https://www.enov8.com/blog/what-makes-a-good-enterprise-release-manager/)
 - Cloudbees: [What is Jenkins?](https://www.cloudbees.com/jenkins/what-is-jenkins)
+- ngrok: [Device Gateway: A Brief Introduction](https://ngrok.com/blog-post/device-gateway-a-brief-introduction)
+- Solarwind Papertrail : [What Your Router Logs Say About Your Network](https://www.papertrail.com/solution/tips/what-your-router-logs-say-about-your-network/)
+- Solarwind Papertrail : [Best Tips for Monitoring and Filtering Your Web Server Logs](https://www.papertrail.com/solution/tips/best-tips-for-monitoring-and-filtering-your-web-server-logs/)
+- AccelData: [Data pipeline tools](https://www.acceldata.io/article/what-is-a-data-pipeline-tool)
+- SolarWinds: [Incident Response Software - IT Cyber Security Tools](https://www.solarwinds.com/security-event-manager/use-cases/incident-response-software)
+- AccelData: [Data observability](https://www.acceldata.io/article/what-is-data-observability)
+- AccelData: [What is Data pipeline?](https://www.acceldata.io/article/what-is-a-data-pipeline)
+- AccelData: [What is Data pipeline architecture?](https://www.acceldata.io/article/what-is-data-pipeline-architecture)
+- Splunk: [What's GRC? Governance, Risk & Compliance Explained](https://www.splunk.com/en_us/blog/learn/grc-governance-risk-compliance.html)
+- Splunk: [Vulnerabilities, Threats & Risk Explained](https://www.splunk.com/en_us/blog/learn/vulnerability-vs-threat-vs-risk.html)
+- Splunk: [The CISO Role: What Does a Chief Information Security Officer Do?](https://www.splunk.com/en_us/blog/learn/chief-information-security-officer-ciso-role.html)
+- Loggly: [Best Practices for Client-Side Logging and Error Handling in React](https://www.loggly.com/blog/best-practices-for-client-side-logging-and-error-handling-in-react/)
+- Stackify: [What Is MTTR? A Simple Definition That Will Help Your Team](https://stackify.com/what-is-mttr-a-simple-definition-that-will-help-your-team/)
+- Workato: [What is intent data? Plus 5 ways to use it effectively](https://www.workato.com/the-connector/what-intent-data-is-and-how-to-use-it)
+- Workato: [Application connectors: how they work and why they’re invaluable for integrating and automating at scale](https://www.workato.com/the-connector/application-connectors)
+- Workato: [5 data integration challenges to look out for (and the solutions for overcoming them)](https://www.workato.com/the-connector/data-integration-challenges/)
+- Workato: [SaaS integration: what it is and 3 reasons why it’s important](https://www.workato.com/the-connector/saas-integration)
+- Workato: [Service desk chatbot: what it is and 4 reasons why it’s valuable](https://www.workato.com/the-connector/service-desk-chatbot)
+- Workato: [What is business process integration (BPI)?](https://www.workato.com/the-connector/business-process-integration)
+- Workato: [A complete guide to API development](https://www.workato.com/the-connector/api-development-guide)
+- Workato: [On-premise vs cloud: the differences to keep in mind and why integration is key to both](https://www.workato.com/the-connector/on-premise-vs-cloud) 
+- Workato: [What is application integration? Here’s what you should know](https://www.workato.com/the-connector/what-is-application-integration)  
+- Workato: [Sales Automation: Here’s Everything You Need to Know Before Implementing It](https://www.workato.com/the-connector/sales-automation-guide)
+
 
 ## Glossaries and FAQs
 
@@ -129,9 +170,12 @@ This page showcase some of the articles, quick starts, and glossaries I have wri
 - Sematext: [Service Level Objectives: SLOs](https://sematext.com/glossary/service-level-objective/)
 - Sematext: [Buffer Vs Cache](https://sematext.com/glossary/buffer-vs-cache/)
 - Sematext: [Anomaly Detection](https://sematext.com/glossary/anomaly-detection/)
-- ngrok: [Device Gateway: A Brief Introduction](https://ngrok.com/blog-post/device-gateway-a-brief-introduction)
+- Ngrok: [What is a site-to-site VPN?](https://ngrok.com/blog-post/site-to-site-vpn)
 
 ## Docs and QuickStarts
 
 - docToolChain: [Building Docs with docToolchain: A Quickstart Guide](https://doctoolchain.org/tutorials/01_Tutorials/010_Quickstart.html)
 
+## Writing Contests
+
+- Top 5 open-source writers in [Hashnode 2021 October’s open-source symposium](https://townhall.hashnode.com/oss-grant-badge-winners)

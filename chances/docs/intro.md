@@ -5,14 +5,21 @@ slug: /
 
 # Hi there, I’m Ifeanyi Benny! 👋
 
-I am a **Data Analyst** and **Technical Writer**. I love to write, share knowledge, and build incredible data solutions. 
+I am a **Data Analyst** and **Technical Writer** passionate about building impactful data solutions and sharing knowledge through engaging content.
 
-Professionally, I am a Data Analyst at [Asset & Resource Management Holding Company (ARM HoldCo)](https://www.arm.com.ng), where we help you manage your wealth and invest in your tomorrow. I also work as a freelancer writer at [Hit Subscribe](https://www.hitsubscribe.com/the-team/#writersandeditors), your one-stop shop for tech content marketing and [Hackmamba](https://hackmamba.io/), a technical content agency for SaaS companies.
+Professionally, I am a Data Analyst at [Asset & Resource Management Holding Company (ARM HoldCo)](https://www.arm.com.ng) , collaborating with the Customer Experience (CX) and Product teams to help clients manage their wealth and invest in a brighter tomorrow.
 
-Outside work, I watch movies and anime, have speaking engagments, volunteer at communities or boot camps, and write technical articles.
+In addition to my role at ARM HoldCo, I am a freelance writer for [Hit Subscribe](https://www.hitsubscribe.com/the-team/#writersandeditors), your one-stop shop for high-quality tech content marketing and [Hackmamba](https://hackmamba.io/), a technical content agency for SaaS companies.
 
-> While you’re here, you should check out:
+
+> Before ARM? I focused on teaching data analysis and related tools, as well as building vibrant learning communities:
 >
-> - [Getting Started in Technical Writing on GitHub](https://github.com/Bennykillua/Getting-started-in-Technical-Writing). Learn how to get started with technical writing using the resources in this repository.
-> - Previously used to teach at [Resagratia](https://resagratia.com). You should check out my [Data analytics with Google sheet course](https://resagratia.com/course/data-analytics-fundamentals-with-google-sheets).
-> - Former community manager of [Microsoft Excel and Data Analysis Learning Community](https://www.meetup.com/microsoft-excel-and-data-analysis-learning-community/?eventOrigin=event_home_page) and [Power BI Learning Community](https://www.meetup.com/power-bi-learning-community/?eventOrigin=event_home_page).
+> - Educator and Consultant at [UrbizEdge](https://urbizedge.com/). I taught data analysis, the Power Platform, and Excel, while also managing our learning communities [Microsoft Excel and Data Analysis Learning Community](https://www.meetup.com/microsoft-excel-and-data-analysis-learning-community/?eventOrigin=event_home_page) and [Power BI Learning Community](https://www.meetup.com/power-bi-learning-community/?eventOrigin=event_home_page).
+> - Instructor at [Resagratia](https://resagratia.com).  I previously taught data analysis and created courses, including the popular [Data analytics with Google sheet course](https://resagratia.com/course/data-analytics-fundamentals-with-google-sheets).
+
+
+When I’m not analyzing data or writing technical content, I enjoy watching movies and anime, engaging in speaking opportunities, volunteering at communities or boot camps, and writing technical articles to share my knowledge.
+
+> While you’re here, feel free to check out:
+>
+> - [Getting Started in Technical Writing on GitHub](https://github.com/Bennykillua/Getting-started-in-Technical-Writing), A curated resource to help you begin your journey in technical writing.

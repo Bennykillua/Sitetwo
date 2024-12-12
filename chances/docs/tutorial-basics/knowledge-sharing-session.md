@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # knowledge Sharing Sessions
 
-Welcome to my collection of knowledge-sharing videos! 
+Welcome to my collection of knowledge-sharing videos!
 
-Below are some of the insightful talks I've had the privilege to deliver: 🧑🏾‍🎓
+Below, you’ll find some of the insightful talks I’ve had the privilege to deliver. 🧑🏾‍🎓
 
 - [How to use Azure Maps visual in Power BI](https://youtu.be/EhY8U0uAe0I)
 - [How to create a Gantt Chart using Power BI (Project management)](https://www.youtube.com/watch?v=wAVzFo0gVzQ)
@@ -41,6 +41,7 @@ Below are some of the insightful talks I've had the privilege to deliver: 🧑�
 - [Operational Efficiency Dashboards](https://www.youtube.com/watch?v=nygCkrmZOmQ)
 - [Maximise customer rentention: Perform churn analysis with Power BI](https://www.youtube.com/watch?v=gS8wnOB_J_k&ab_channel=Techlytics)
 - [How can Adaptive cards help you?](https://youtu.be/usRIFMyq6dg?si=LlmjkIL8wunRl2uq)
+- [Exploring generative AI in Power Automate using AI builder](https://youtu.be/5QUBipkKG1M?si=mCx6yk_SCRyt9X-c)
 
 
 
